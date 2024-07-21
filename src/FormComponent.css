@@ -1,0 +1,13 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    position: relative;
+}
+.toasts{
+position: fixed;
+top: 20px;
+right: 20px;
+}
